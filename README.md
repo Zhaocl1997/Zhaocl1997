@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Zhao 👋
+
+![Zhao's github stats](https://github-readme-stats.vercel.app/api?username=Zhaocl1997&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaocl1997)
 
 <!--
 **Zhaocl1997/Zhaocl1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
