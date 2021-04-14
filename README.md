@@ -1,6 +1,6 @@
 ### Hi there, I'm Zhao 👋
 
-Currently I'm working on [walnut-admin](https://github.com/Zhaocl1997/walnut-admin-template).
+Currently I'm working on [walnut-admin](https://github.com/Zhaocl1997/walnut-admin-client).
 
 ![Zhao's github stats](https://github-readme-stats.vercel.app/api?username=Zhaocl1997&show_icons=true&theme=vue)
 
