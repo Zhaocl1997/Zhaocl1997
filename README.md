@@ -1,6 +1,6 @@
 ### Hi there, I'm Zhao 👋
 
-- 🔭 I’m currently working on [walnut-admin](https://github.com/Zhaocl1997/walnut-admin-client
+- 🔭 I’m currently working on [walnut-admin](https://github.com/Zhaocl1997/walnut-admin-client)
 - 🌱 I’m currently learning [Vue3](https://v3.vuejs.org/) and [Typescript](https://www.typescriptlang.org/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
