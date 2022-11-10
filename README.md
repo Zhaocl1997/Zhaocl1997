@@ -13,6 +13,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaocl1997)
 
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=106198510)](https://netease-recent-profile.vercel.app/?id=106198510)
+
+
 <!--
 **Zhaocl1997/Zhaocl1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
